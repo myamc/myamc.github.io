@@ -1,0 +1,45 @@
+.topr {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 0;
+  height: 0;
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+  border-bottom: 190px solid rgb(133, 174, 255);
+  transform: rotate(90deg);
+}
+
+.bottomr{
+  position: absolute;
+  top: 215px;
+  left: 25px;
+  width: 0;
+  height: 0;
+  border-bottom: 200px solid black;
+  border-right: 200px solid transparent;
+}
+
+.topa{
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 20px;
+  left: 250px;
+  width: 0;
+  height: 0; 
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+  border-bottom: 190px solid rgb(133, 174, 255);
+}
+
+.bottoma{
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 215px;
+  left: 250px; 
+  background-color: black;
+}
