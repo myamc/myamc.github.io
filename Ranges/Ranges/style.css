@@ -19,7 +19,7 @@
   width: 0;
   height: 0;
   border-bottom: 200px solid black;
-  border-right: 200px solid transparent;
+  border-right: 245px solid transparent;
 }
 
 .topa{
@@ -27,7 +27,7 @@
   height: 150px;
   position: absolute;
   top: 20px;
-  left: 250px;
+  left: 285px;
   width: 0;
   height: 0; 
   border-left: 100px solid transparent;
@@ -40,6 +40,6 @@
   height: 200px;
   position: absolute;
   top: 215px;
-  left: 250px; 
+  left: 285px; 
   background-color: black;
 }
