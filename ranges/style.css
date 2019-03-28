@@ -8,7 +8,7 @@
   height: 0;
   border-left: 100px solid transparent;
   border-right: 100px solid transparent;
-  border-bottom: 210px solid #184F7C;
+  border-bottom: 210px solid #103554;
   /*rgb(133, 174, 255);*/
   transform: rotate(90deg);
 }
@@ -154,11 +154,12 @@
 p{
   position: absolute;
   top: 400px;
-  left: 750px;
+  left: 765px;
   width: 500px;
   text-align: justify;
   font-size: 16px;
   font-family: Courier New;
+  line-height: 22px;
 }
 
 .tope{
@@ -196,61 +197,62 @@ p{
   left: 1135px;
   border: 10px solid #103554;
 }
-.tops{
-  width: 150px;
-  height: 150px;
-  position: absolute;
-  top: 56px;
-  left: 1430px;
-  width: 0;
-  height: 0;
-  border-left: 125px solid transparent;
-  border-right: 125px solid transparent;
-  border-bottom: 210px solid black;
-  transform: rotate(180deg);
+.tops {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 55px;
+    left: 1465px;
+    width: 0;
+    height: 0;
+    border-left: 115px solid transparent;
+    border-right: 115px solid transparent;
+    border-bottom: 265px solid black;
+    transform: rotate(180deg);
 }
 
-.tops2{
-  width: 150px;
-  height: 150px;
-  position: absolute;
-  top: 70px;
-  left: 1455px;
-  width: 0;
-  height: 0;
-  border-left: 100px solid transparent;
-  border-right: 100px solid transparent;
-  border-bottom: 180px solid white;
-  transform: rotate(180deg);
+.tops2 {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 70px;
+    left: 1483px;
+    width: 0;
+    height: 0;
+    border-left: 95px solid transparent;
+    border-right: 95px solid transparent;
+    border-bottom: 210px solid white;
+    transform: rotate(180deg);
 }
 
-.bottoms{
-  width: 150px;
-  height: 150px;
-  position: absolute;
-  top: 232px;
-  left: 1420px;
-  width: 0;
-  height: 0;
-  border-left: 125px solid transparent;
-  border-right: 125px solid transparent;
-  border-bottom: 210px solid #103554;
-  transform: rotate(0deg); 
+.bottoms {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 180px;
+    left: 1420px;
+    width: 0;
+    height: 0;
+    border-left: 115px solid transparent;
+    border-right: 115px solid transparent;
+    border-bottom: 265px solid #103554;
+    transform: rotate(0deg);
 }
  
-.bottoms2{
-  width: 150px;
-  height: 150px;
-  position: absolute;
-  top: 250px;
-  left: 1445px;
-  width: 0;
-  height: 0;
-  border-left: 100px solid transparent;
-  border-right: 100px solid transparent;
-  border-bottom: 180px solid white;
-  transform: rotate(0deg); 
+.bottoms2 {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 220px;
+    left: 1440px;
+    width: 0;
+    height: 0;
+    border-left: 95px solid transparent;
+    border-right: 95px solid transparent;
+    border-bottom: 210px solid white;
+    transform: rotate(0deg);
 }
+
 
 .wrapper2{ 
   position: absolute;
