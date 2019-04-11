@@ -6,7 +6,6 @@
 	width: 100vw;
 	filter:blur(2px);
 }
-
 .opacity{
 	position: absolute;
 	top: 0px;
@@ -34,15 +33,6 @@
 	font-size: 5.5vw;
 	text-align: center;
 }
-/*.block{
-	position: absolute;
-	top: 92vh;
-	left: 20vw;
-	height: 8vh;
-	width: 65vw;
-	background-color: black;
-  	border-radius: 32px;
-} */
 .by{
 	position: absolute;
 	top: 25vh;
@@ -123,8 +113,6 @@
 	text-align: center;
 	line-height: 8.5vh;
 	padding-top: 18px;
-
-
 }
 .button:hover{
 	background-color: black;
@@ -147,20 +135,18 @@
     left: 58.5vw; 
     height: 45px;
     width: 45px;
-
 }
 .facebook:hover{
 	cursor: pointer;
 }
-
-	.logo{
-		position: absolute;
-		top: 93vh;
-		left: 51.5vw;
-		height: 55px;
-		width: 50px;
+.logo{
+	position: absolute;
+	top: 93vh;
+	left: 51.5vw;
+	height: 55px;	
+	width: 50px;
 	}
-	.logo:hover{
+.logo:hover{
 	cursor: pointer;
 }
  .wrapper{
@@ -168,9 +154,7 @@
  	top: -1vh;
  	left: 0vw;
  }
- .wrapper2{
- 
- }
+
 @media (max-width: 400px) {
 .dance1{
 	display: none;
@@ -180,43 +164,43 @@
 	display: none;
 }
 .dance2{
-		position: absolute;
-		top: 0;
-		left: 0;
-		height: 100vh;
-		width: 100vw;
-		filter:blur(1px);
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100vh;
+	width: 100vw;
+	filter:blur(1px);
 }
-	.opacity{
-		position: absolute; 
-		top: 0;
-		left: 0;
-		height: 100vh;
-		width: 100vw;
-		 background-color: black;
-		opacity: 0.35;
-	}
-	.opacity2{
-		display: none;
-	}
-	.title{
-		position: absolute;
-		top: 4vh;
-		left:2vw;
-		font-family: 'Fascinate Inline', cursive;
-		color: deeppink;
-		font-size: 8vw;
-		text-align: center;	
-	}
-	.by{
-	    position: absolute;
-    	top: 14.3vh;
-    	left: 52vw;
-   		font-family: 'Fascinate Inline', cursive;
-    	color: white;
-    	font-size: 4vw;
+.opacity{
+	position: absolute; 
+	top: 0;
+	left: 0;
+	height: 100vh;
+	width: 100vw;
+	background-color: black;
+	opacity: 0.35;
 }
-	.date{
+.opacity2{
+	display: none;
+}
+.title{
+	position: absolute;
+	top: 4vh;
+	left:2vw;
+	font-family: 'Fascinate Inline', cursive;
+	color: deeppink;
+	font-size: 8vw;
+	text-align: center;	
+}
+.by{
+    position: absolute;
+   	top: 14.3vh;
+   	left: 52vw;
+   	font-family: 'Fascinate Inline', cursive;
+   	color: white;
+   	font-size: 4vw;
+}
+.date{
 	position: absolute;
 	top: 25vh;
 	left: 25vw;
@@ -225,8 +209,8 @@
 	font-size: 6vw;
 	text-align: center;
 }
-	.date:hover{
-		display: none;
+.date:hover{
+	display: none;
 	}
 .time{
 	position: absolute;
@@ -267,18 +251,6 @@
 	font-size: 6vw;
 	text-align: center;
 }
-
-/*.block{
-	position: absolute;
-	top: 93vh;
-	left: 0;
-	height: 7vh;
-	width: 100vw;
-	background-color: black;
-	border-radius: 0px;
-
-}*/
-
 .button{
 	position: absolute;
     top: 70vh;
@@ -308,12 +280,12 @@
     height: 7vh;
     width: 14vw;
 }
-	.logo{
-		position: absolute;
-		top: 93vh;
-		left: 45vw;
-		height: 6vh;
-		width: 13vw;
-	}
+.logo{
+	position: absolute;
+	top: 93vh;
+	left: 45vw;
+	height: 6vh;
+	width: 13vw;
+}
 	
-	}
+}
