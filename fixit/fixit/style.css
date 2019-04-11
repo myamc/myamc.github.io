@@ -121,7 +121,7 @@
 	color: black;
 	font-size: 4vw;
 	text-align: center;
-	line-height: 25px;
+	line-height: 45px;
 
 
 }
@@ -142,10 +142,10 @@
 }
 .facebook{
 	position: absolute;
-	top: 93vh;
+	top: 92vh;
     left: 67vw; 
-    height: 6vh;
-    width: 3vw;
+    height: 8vh;
+    width: 5vw;
 
 }
 .facebook:hover{
@@ -276,16 +276,17 @@
 
 .button{
 	position: absolute;
-	top: 65vh;
-	left: 15.5vw;
-	height: 14vh;
-	width: 70vw;
-	background-color: deeppink;
-	border-radius: 50%;
-	font-family: 'Quicksand', sans-serif;
-	color: white;
-	font-size: 6vh;
-	text-align: center;
+    top: 65vh;
+    left: 15.5vw;
+    height: 14vh;
+    width: 70vw;
+    background-color: deeppink;
+    border-radius: 50%;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    font-size: 4vh;
+    text-align: center;
+    line-height: 105px;
 }
 .twitter{
 	position: absolute;
@@ -296,15 +297,15 @@
 }
 .facebook{
 	position: absolute;
-	top: 94vh;
-    left: 75vw; 
-    height: 5vh;
-    width: 10vw;
+    top: 93vh;
+    left: 75vw;
+    height: 7vh;
+    width: 14vw;
 }
 	.logo{
 		position: absolute;
 		top: 93vh;
-		left: 44vw;
+		left: 45vw;
 		height: 6vh;
 		width: 13vw;
 	}
