@@ -1,0 +1,312 @@
+.dance1{
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100vh;
+	width: 100vw;
+	filter:blur(2px);
+}
+
+.opacity{
+	position: absolute;
+	top: 0px;
+	left: 20vw;
+	height: 100vh;
+	width: 65vw;
+	background-color: black;
+	opacity: 0.3;
+}
+.opacity2{
+	position: absolute;
+	top: 0px;
+	left: 0vw;
+	height: 100vh;
+	width: 100vw;
+	background-color: black;/*rgb(255, 25, 81);*/
+	opacity: 0.150 ;
+}
+.title{
+	position: absolute;
+	top: 0vh;
+	left: 23vw;
+	font-family: BIGBOBS;
+	color: white;
+	font-size: 7.5vw;
+	text-align: center;
+}
+.block{
+	position: absolute;
+	top: 92vh;
+	left: 20vw;
+	height: 8vh;
+	width: 65vw;
+	background-color: black;
+  	border-radius: 32px; 
+}
+.by{
+	position: absolute;
+	top: 25vh;
+	left: 60vw;
+	font-family: BIGBOBS;
+	color: white;
+	font-size: 2.5vw;
+}
+.date{
+	position: absolute;
+	top: 32vh;
+	left: 43vw;
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+	font-size: 2.25vw;
+	text-align: center;
+}
+.date:hover{
+	position: absolute;
+	top: 32vh;
+	left: 42vw;
+	font-size: 2.5vw;
+}
+.time{
+	position: absolute;
+	top: 38vh;
+	left: 42.75vw;
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+	font-size: 2.5vw;
+	text-align: center;
+}
+.place{
+	position: absolute;
+	top: 44vh;
+	left: 31vw;
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+	font-size: 2.75vw;
+	text-align: center;
+}
+.place:hover{
+	position: absolute;
+	top: 44vh;
+	left: 28.5vw;
+	font-size: 3vw;
+}
+.address{
+	position: absolute;
+	top: 51vh;
+	left: 45.5vw;
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+	font-size: 2.5vw;
+	text-align: center;
+}
+.city{
+	position: absolute;
+	top: 57vh;
+	left: 43.5vw;
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+	font-size: 2.25vw;
+	text-align: center;
+}
+.button{
+	position: absolute;
+	top: 65vh;
+	left: 42vw;
+	height: 17vh;
+	width: 22vw;
+	background-color: white;
+	opacity: 0.8;
+	border-radius: 50%;
+	font-family: 'Quicksand', sans-serif;
+	color: black;
+	font-size: 4vw;
+	text-align: center;
+	line-height: 25px;
+
+
+}
+.button:hover{
+	background-color: black;
+	color: white;
+	cursor: pointer;
+}
+.twitter{
+	position: absolute;
+	top: 92vh;
+    left: 35vw;
+    height: 9vh;
+    width: 5vw;
+}
+.twitter:hover{
+	cursor: pointer;
+}
+.facebook{
+	position: absolute;
+	top: 93vh;
+    left: 67vw; 
+    height: 6vh;
+    width: 3vw;
+
+}
+.facebook:hover{
+	cursor: pointer;
+}
+
+	.logo{
+		position: absolute;
+		top: 93vh;
+		left: 51vw;
+		height: 7vh;
+		width: 4vw;
+	}
+	.logo:hover{
+	cursor: pointer;
+}
+ .wrapper{
+ 	position: absolute;
+ 	top: -1vh;
+ 	left: 0vw;
+ }
+@media (max-width: 400px) {
+.dance1{
+	display: none;
+}
+
+.opacity2{
+	display: none;
+}
+.dance2{
+		position: absolute;
+		top: 0;
+		left: 0;
+		height: 100vh;
+		width: 100vw;
+		filter:blur(1px);
+}
+	.opacity{
+		position: absolute; 
+		top: 0;
+		left: 0;
+		height: 100vh;
+		width: 100vw;
+		 background-color: black;
+		opacity: 0.35;
+	}
+	.opacity2{
+		display: none;
+	}
+	.title{
+		position: absolute;
+		top: 4vh;
+		left:2vw;
+		font-family: BIGBOBS;
+		color: deeppink;
+		font-size: 12vw;
+		text-align: center;	
+	}
+	.by{
+	    position: absolute;
+    	top: 16.3vh;
+    	left: 52vw;
+   		font-family: BIGBOBS;
+    	color: white;
+    	font-size: 6vw;
+}
+	.date{
+	position: absolute;
+	top: 25vh;
+	left: 25vw;
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+	font-size: 6vw;
+	text-align: center;
+}
+	.date:hover{
+		display: none;
+	}
+.time{
+	position: absolute;
+	top: 32vh;
+	left: 25.5vw;
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+	font-size: 6.5vw;
+	text-align: center;
+}
+.place{
+	position: absolute;
+	top: 38vh;
+	left: 0vw;
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+	font-size: 7vw;
+	text-align: center;
+}
+	.place:hover{
+		display: none;
+	}
+.address{
+	position: absolute;
+	top: 49vh;
+	left: 31vw;
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+	font-size: 6.5vw;
+	text-align: center;
+}
+.city{
+	position: absolute;
+	top: 55vh;
+	left: 25vw;
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+	font-size: 6vw;
+	text-align: center;
+}
+.block{
+	position: absolute;
+	top: 93vh;
+	left: 0;
+	height: 7vh;
+	width: 100vw;
+	background-color: black;
+	border-radius: 0px;
+
+}
+
+.button{
+	position: absolute;
+	top: 65vh;
+	left: 15.5vw;
+	height: 14vh;
+	width: 70vw;
+	background-color: deeppink;
+	border-radius: 50%;
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+	font-size: 6vh;
+	text-align: center;
+}
+.twitter{
+	position: absolute;
+    top: 92.5vh;
+    left: 14vw;
+    height: 8vh;
+    width: 16vw;
+}
+.facebook{
+	position: absolute;
+	top: 94vh;
+    left: 75vw; 
+    height: 5vh;
+    width: 10vw;
+}
+	.logo{
+		position: absolute;
+		top: 93vh;
+		left: 44vw;
+		height: 6vh;
+		width: 13vw;
+	}
+	
+	}
