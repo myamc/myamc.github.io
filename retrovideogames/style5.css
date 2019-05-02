@@ -1,0 +1,35 @@
+.pacman{
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100vh;
+	width: 100vw;
+}
+
+.giphy{
+	position: absolute;
+	top: 37vh;
+	left: 42vw;
+	height: 20vh;
+	width: 15vw;
+	border-radius: 10%;
+}
+
+.about{
+	position: absolute;
+	top: 60vh;
+	left: 33vw;
+	font-family: 'Gugi', cursive;
+	color: black;
+	font-size: 1.5vw;
+	width: 33vw;
+	text-align: justify;
+}
+
+.home{
+	position: absolute;
+	top: 94vh;
+	left: 48vw;
+	height: 6vh;
+	width: 3vw;
+}

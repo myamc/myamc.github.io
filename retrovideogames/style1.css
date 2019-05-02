@@ -1,0 +1,128 @@
+.game{
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100vh;
+	width: 100vw;
+}
+
+.doom{
+	position: absolute;
+	top: 14.9vh;
+	left:16.1vw;
+	height: 9.9vh;
+	width: 10.1vw; 
+}
+
+.conkers{
+	position: absolute;
+	top: 39.6vh;
+	left: 9.8vw;
+	height: 16.06vh;
+	width: 16.4vw;
+}
+
+.pacman{
+	position: absolute;
+	top: 68.5vh;
+	left: 8.9vw; 
+	height: 9.9vh;
+	width: 10.1vw;
+}
+
+.pokemon{
+	position: absolute;
+	top: 9.18vh;
+	left: 37vw;
+	height: 10.3vh;
+	width: 10.23vw;
+}
+
+.starwars{
+	position: absolute;
+	top: 28.7vh;
+	left: 34.1vw;
+	height: 14.7vh;
+	width: 8.25vw;
+}
+
+.kirby{
+	position: absolute;
+	top: 55.3vh;
+	left: 33.05vw;
+	height: 10.09vh;
+	width: 10.3vw;
+}
+.papermario{
+	position: absolute;
+	top: 74.35vh;
+	left: 26vw;
+	height: 13.9vh;
+	width: 7.9vw;
+}
+
+.supermario{
+	position: absolute;
+	top: 17.04vh;
+	left: 54.74vw;
+	height: 17.01vh;
+	width: 17.2vw; 
+}
+
+.zelda{
+	position: absolute;
+	top: 47.5vh;
+	left: 49.78vw;
+	height: 9.9vh;
+	width: 10.05vw;
+}
+
+.thawk{
+	position: absolute;
+	top: 68.82vh;
+	left: 49.45vw;
+	height: 18.34vh;
+	width: 10.25vw;
+}
+
+.dk{
+	position: absolute;
+	top: 7.65vh;
+	left: 81.16vw;
+	height: 14.67vh;
+	width: 8.5vw;
+}
+
+.doubleo{
+	position: absolute;
+	top: 34.66vh;
+	left: 79.65vw;
+	height: 10vh;
+	width: 10.04vw;
+}
+
+.perfectdark{
+	position: absolute;
+	top: 55.8vh;
+	left: 68.07vw;
+	height: 17.4vh;
+	width: 17.33vw;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
