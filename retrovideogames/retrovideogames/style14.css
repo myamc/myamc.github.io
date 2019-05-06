@@ -1,0 +1,116 @@
+.perfectdark{
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100vh;
+	width: 100vw;
+}
+
+.giphy{
+	position: absolute;
+	top: 35vh;
+	left: 29vw;
+	height: 23vh;
+	width: 18vw;
+	border-radius: 10%;
+}
+
+.about{
+	position: absolute;
+	top: 35vh;
+	left: 50vw;
+	font-family: 'Gugi', cursive;
+	color: black;
+	font-size: 1.5vw;
+	width: 22vw;
+	text-align: justify;
+}
+
+.home{
+	position: absolute;
+	top: 94vh;
+	left: 48vw;
+	height: 6vh;
+	width: 3vw;
+}
+
+.more{
+	position: absolute;
+	top: 70vh;
+	left: 45vw;
+	font-family: 'Gugi', cursive;
+	color: black;
+	font-size: 1.3vw;
+}
+
+.doom{
+	position: absolute;
+	top: 75vh;
+	left: 33vw;
+	height: 13vh;
+	width: 9vw;
+	border-radius: 10%;
+}
+
+.doomg{
+	position: absolute;
+	top: 75vh;
+	left: 33vw;
+	height: 13vh;
+	width: 9vw;
+	border-radius: 10%;
+	opacity: 0;
+}
+
+.doomg:hover{
+	opacity: 1;
+}
+
+.doubleo{
+	position: absolute;
+	top: 75vh;
+	left: 45vw;
+	height: 13vh;
+	width: 9vw;
+	border-radius: 10%;
+}
+
+.doubleog{
+	position: absolute;
+	top: 75vh;
+	left: 45vw;
+	height: 13vh;
+	width: 9vw;
+	border-radius: 10%;
+	opacity: 0;
+}
+
+.doubleog:hover{
+	opacity: 1;
+}
+
+.starwars{
+	position: absolute;
+	top: 75vh;
+	left: 57vw;
+	height: 13vh;
+	width: 9vw;
+	border-radius: 10%;
+}
+
+.starwarsg{
+	position: absolute;
+	top: 75vh;
+	left: 57vw;
+	height: 13vh;
+	width: 9vw;
+	border-radius: 10%;
+	opacity: 0;
+}
+
+.starwarsg:hover{
+	opacity: 1;
+}
+
+
+

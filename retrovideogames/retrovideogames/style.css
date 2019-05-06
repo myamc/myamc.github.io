@@ -1,0 +1,39 @@
+.one{
+	position: absolute;
+	top: 0;
+	left:0;
+	height: 100vh;
+	width: 50vw;
+}
+.two{
+	position: absolute;
+	top: 0;
+	left:50vw;
+	width: 50vw;
+	height: 9.3vh;
+
+}
+.three{
+	position: absolute;
+	top: 9.3vh;
+	left:50vw;
+	height: 40.7vh;
+	width: 29.9vw;
+}
+.three:hover{
+	cursor: pointer;
+}
+.four{
+	position: absolute;
+	top:9.3vh;
+	left: 79.9vw;
+	height: 40.7vh; 
+	width: 20.1vw;
+}
+.five{
+	position: absolute;
+	top: 49.9vh;
+	left: 50vw;
+	height: 50.1vh;
+	width: 50vw;
+}
