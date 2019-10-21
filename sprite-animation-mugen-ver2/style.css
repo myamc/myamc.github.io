@@ -1,0 +1,82 @@
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+html {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+body {
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-color: black;
+  overflow: hidden;
+}
+
+.background {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  margin: auto;
+  width: 1920px;
+  height: 1080px;
+  background-image: url("./img/background.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  pointer-events: none;
+}
+
+.hero {
+  position: absolute;
+  top: 120px;
+  left: calc(50% - 200px);
+  width: 400px;
+  height: 400px;
+  background-image: url("./img/idling-sprite.png");
+  animation-name: spriteSheet;
+  animation-duration: 1000ms;
+  animation-timing-function: steps(2); /* number of frames in sprite (not counting the final blank space) */
+  background-position: 0 center;
+  background-size: cover;
+  transition-property: left, margin-bottom;
+  transition-timing-function: linear, ease-in-out;
+  pointer-events: none;
+  animation-iteration-count: infinite;
+}
+
+.hero.walking {
+  left: calc(50% + 300px);
+  background-image: url("./img/walking-sprite.png");
+  animation-name: spriteSheet;
+  animation-duration: 350ms;
+  animation-timing-function: steps(4); /* number of frames in sprite (not counting the final blank space) */
+}
+
+.hero.left {
+  left: calc(50% - 700px);
+  transform: scale(-1, 1);
+}
+
+.hero.special-action {
+  bottom: 120px;
+  top: auto;
+  left: 0; right: 0;
+  margin: 0 auto;
+  background-image: url("./img/special-action-sprite.png");
+  animation-name: spriteSheet;
+  animation-duration: 750ms;
+  animation-timing-function: steps(4); /* number of frames in sprite (not counting the final blank space) */
+}
+
+
+@keyframes spriteSheet {
+  0% {
+    background-position: 0% center;
+  }
+  100% {
+    background-position: 100% center;
+  }
+}
