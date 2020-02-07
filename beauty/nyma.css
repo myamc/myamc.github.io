@@ -1,9 +1,7 @@
 body{
-	max-width: 500px;
-	margin-left: auto;
-	margin-right: auto;
-	margin: 0;
+	max-width: 450px;
 }
+
 .topbar{
 	position: absolute;
 	top: 0px;
@@ -15,30 +13,12 @@ body{
 
 .pht{
 	position: absolute;
-	top: 35px;
-	left: -221px;
-	height: 675px;
-	width: 710px;
-}
-
-.logo{
-	position: absolute;
-	top: 10px;
-	left: 168px;
-	height: 55px;
-	width: 35px;
-}
-
-.intro{
-	position: absolute;
-	top: 1160px;
+	top: 75px;
 	left: 0px;
-	background-color:#F1F9FC;
-	height: 150px;
-	width: 700px;
+	background-color:#dbf1f7;
+	height: 300px;
+	width: 375px;
 }
-
-
 
 .head{
 	position: absolute;
@@ -47,20 +27,21 @@ body{
 	font-family: 'Lora', serif;
 	font-size: 34px;
 	line-height: 40px;
+	font-weight: bold;
 }
-
 
 .head3{
 	position: absolute;
-	top: 505px;
+	top: 550px;
 	left: 10px;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 18px;
+
 }
 
 .p1{
 	position: absolute;
-	top: 545px; 
+	top: 590px;
 	left: 10px;
 	right: 7px;
 	font-family: 'Open Sans', sans-serif;
@@ -69,73 +50,45 @@ body{
 
 .p2{
 	position: absolute;
-	top: 795px;
-	left: 10px;
-	right: 7px;
-	font-family: 'Open Sans', sans-serif;
-	font-size: 16px;
+	top: 800px;
+	left: 38px;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 20px;
+	width: 300px;
+	font-weight: bold;
+  	text-align: center;
 }
 
 .p3{
 	position: absolute;
-	top: 1005px;
+	top: 1000px;
 	left: 10px;
 	right: 7px;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
 }
-
-.p4{
-	position: absolute;
-	top: 1535px;
-	left: 10px;
-	right: 7px;
-	font-family: 'Open Sans', sans-serif;
-	font-size: 16px;
-}
-
 
 .pic1{
 	position: absolute;
-	top: 1340px;
+	top: 1380px;
 	left: 10px;
 	background-color:#dbf1f7;
 	height: 200px;
 	width: 355px;
 }
 
+.p4{
+	position: absolute;
+	top: 1580px;
+	left: 10px;
+	right: 7px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+
 .p5{
 	position: absolute;
-	top: 2050px;
-	left: 10px;
-	right: 7px;
-	font-family: 'Open Sans', sans-serif;
-	font-size: 16px;
-}
-
-.p6{
-	position: absolute;
-	top: 2370px;
-	left: 10px;
-	right: 7px;
-	font-family: 'Open Sans', sans-serif;
-	font-size: 16px;
-}
-
-.p7{
-	position: absolute;
-	top: 2670px;
-	left: 48px;
-	font-family: 'Quicksand', sans-serif;
-	font-size: 20px;
-	width: 275px;
-	font-weight: bold;
-  	text-align: center;
-}
-
-.p8{
-	position: absolute;
-	top: 2840px;
+	top: 1815px;
 	left: 10px;
 	right: 7px;
 	font-family: 'Open Sans', sans-serif;
@@ -144,36 +97,45 @@ body{
 
 .pic2{
 	position: absolute;
-	top: 3350px;
+	top: 2045px;
 	left: 195px;
-	background-color:#AF8467;
-	height: 380px;
+	background-color:#dbf1f7;
+	height: 460px;
 	width: 180px;
 }
 
-.p9{
+.p6{
 	position: absolute;
-	top: 3245px;
+	top: 2025px;
 	left: 10px;
-	right: 7px;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
+	width: 180px;
 }
 
- .p10{
+.p7{
 	position: absolute;
-	top: 3345px;
-	left: 5px;
+	top: 2500px;
+	left: 38px;
 	font-family: 'Quicksand', sans-serif;
 	font-size: 20px;
-	width: 183px;
+	width: 300px;
 	font-weight: bold;
   	text-align: center;
 }
 
-.p11{
+.pic3{
 	position: absolute;
-	top: 3725px;
+	top: 2710px;
+	left: 10px;
+	background-color:#dbf1f7;
+	height: 200px;
+	width: 355px;
+}
+
+.p8{
+	position: absolute;
+	top: 2910px;
 	left: 10px;
 	right: 7px;
 	font-family: 'Open Sans', sans-serif;
@@ -182,44 +144,20 @@ body{
 
 .next{
 	position: absolute;
-	top: 3950px;
+	top: 3250px;
 	left: 10px;
 	font-family: 'Quicksand', sans-serif;
 	font-size: 20px;
 
 }
 
-.jackie{
+.img4{
 	position: absolute;
-	top: 4010px;
-	left: 10px;
-	height: 109px;
-	width: 79px;
+	top: 3300px;
+	left: 0;
+	background-color: white;
+	height: 300px;
+	width: 375px;
 
 }
-
-.nyma{
-	position: absolute;
-	top: 4010px;
-	left: 75px;
-	height: 109px;
-	width: 109px;
-}
-
-.toomuchmouth{
-	position: absolute;
-	top: 4010px;
-	left: 179px;
-	height: 99px;
-	width: 96px;
-}
-
-.ellarie{
-	position: absolute;
-	top: 3985px;
-	right: 5px;
-	height: 125px;
-	width: 110px;
-}
-
  

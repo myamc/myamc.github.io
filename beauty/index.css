@@ -1,0 +1,62 @@
+.topbar{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color:#B08566;
+	height: 75px;
+	width: 375px;
+}
+
+.smllogo{
+	position: absolute;
+	top: 10px;
+	left: 175px;
+	height: 55px;
+	width: 35px;
+}
+
+.logo{
+	position: absolute;
+	top: 100px;
+	left: -9px;
+	height: 220px;
+	width: 400px;
+}
+
+.intro{
+	position: absolute;
+	top: 325px;
+	left: -12px;
+	height: 150px;
+	width: 395px;
+}
+
+.jackie{
+	position: absolute;
+	top: 410px;
+	left: -13px;
+	height: 150px;
+	width: 380px;	
+}
+
+.nyma{
+	position: absolute;
+	top: 505px;
+	left: -10px;
+	height: 150px;
+	width: 393px;
+}
+.toomuch{
+	position: absolute;
+	top: 595px;
+	left: -10px;
+	height: 150px;
+	width: 393px;
+}
+.ella{
+	position: absolute;
+	top: 685px;
+	left: -10px;
+	height: 150px;
+	width: 393px;
+}
