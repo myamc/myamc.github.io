@@ -1,0 +1,170 @@
+body{
+	max-width: 450px;
+}
+
+.topbar{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color:#B08566;
+	height: 75px;
+	width: 375px;
+}
+
+.pht{
+	position: absolute;
+	top: 75px;
+	left: 0px;
+	height: 300px;
+	width: 375px;
+}
+
+.head{
+	position: absolute;
+	top: 370px;
+	left: 10px;
+	right: 7px;
+	font-family: 'Lora', serif;
+	font-size: 34px;
+	line-height: 40px;
+	font-weight: bold;
+}
+
+.head3{
+	position: absolute;
+	top: 550px;
+	left: 10px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+}
+
+.p1{
+	position: absolute;
+	top: 590px;
+	left: 10px;
+	right: 7px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+
+.p2{
+	position: absolute;
+	top: 820px;
+	left: 10px;
+	right: 7px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+
+.p3{
+	position: absolute;
+	top: 1070px;
+	left: 10px;
+	right: 7px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+
+.p4{
+	position: absolute;
+	top: 1210px;
+	left: 38px;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 20px;
+	width: 300px;
+	font-weight: bold;
+  	text-align: center;
+  }
+
+.pic1{
+	position: absolute;
+	top: 1505px;
+	left: 10px;
+	background-color:#dbf1f7;
+	height: 200px;
+	width: 355px;
+}
+
+.p5{
+	position: absolute;
+	top: 1710px;
+	left: 10px;
+	right: 7px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+
+.p6{
+	position: absolute;
+	top: 1890px;
+	left: 10px;
+	right: 7px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+
+.p7{
+	position: absolute;
+	top: 1990px;
+	left: 10px;
+	right: 7px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+
+.p8{
+	position: absolute;
+	top: 2120px;
+	left: 38px;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 20px;
+	width: 300px;
+	font-weight: bold;
+  	text-align: center;
+}
+
+.pic2{
+	position: absolute;
+	top: 2305px;
+	left: 195px;
+	background-color:#dbf1f7;
+	height: 415px;
+	width: 180px;
+}
+
+.p9{
+	position: absolute;
+	top: 2285px;
+	left: 10px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	width: 180px;
+}
+
+ .p10{
+	position: absolute;
+	top: 2715px;
+	left: 10px;
+	right: 7px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+
+.next{
+	position: absolute;
+	top: 2900px;
+	left: 10px;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 20px;
+
+}
+
+.img1{
+	position: absolute;
+	top: 3100px;
+	left: 0;
+	background-color: white;
+	height: 300px;
+	width: 375px;
+
+}

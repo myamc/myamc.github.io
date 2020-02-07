@@ -1,0 +1,163 @@
+body{
+	max-width: 450px;
+}
+
+.topbar{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color:#B08566;
+	height: 75px;
+	width: 375px;
+}
+
+.pht{
+	position: absolute;
+	top: 75px;
+	left: 0px;
+	background-color:#dbf1f7;
+	height: 300px;
+	width: 375px;
+}
+
+.head{
+	position: absolute;
+	top: 370px;
+	left: 10px;
+	font-family: 'Lora', serif;
+	font-size: 34px;
+	line-height: 40px;
+	font-weight: bold;
+}
+
+.head3{
+	position: absolute;
+	top: 550px;
+	left: 10px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+
+}
+
+.p1{
+	position: absolute;
+	top: 590px;
+	left: 10px;
+	right: 7px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+
+.p2{
+	position: absolute;
+	top: 800px;
+	left: 38px;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 20px;
+	width: 300px;
+	font-weight: bold;
+  	text-align: center;
+}
+
+.p3{
+	position: absolute;
+	top: 1000px;
+	left: 10px;
+	right: 7px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+
+.pic1{
+	position: absolute;
+	top: 1380px;
+	left: 10px;
+	background-color:#dbf1f7;
+	height: 200px;
+	width: 355px;
+}
+
+.p4{
+	position: absolute;
+	top: 1580px;
+	left: 10px;
+	right: 7px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+
+.p5{
+	position: absolute;
+	top: 1815px;
+	left: 10px;
+	right: 7px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+
+.pic2{
+	position: absolute;
+	top: 2045px;
+	left: 195px;
+	background-color:#dbf1f7;
+	height: 460px;
+	width: 180px;
+}
+
+.p6{
+	position: absolute;
+	top: 2025px;
+	left: 10px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	width: 180px;
+}
+
+.p7{
+	position: absolute;
+	top: 2500px;
+	left: 38px;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 20px;
+	width: 300px;
+	font-weight: bold;
+  	text-align: center;
+}
+
+.pic3{
+	position: absolute;
+	top: 2710px;
+	left: 10px;
+	background-color:#dbf1f7;
+	height: 200px;
+	width: 355px;
+}
+
+.p8{
+	position: absolute;
+	top: 2910px;
+	left: 10px;
+	right: 7px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+
+.next{
+	position: absolute;
+	top: 3250px;
+	left: 10px;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 20px;
+
+}
+
+.img4{
+	position: absolute;
+	top: 3300px;
+	left: 0;
+	background-color: white;
+	height: 300px;
+	width: 375px;
+
+}
+ 
