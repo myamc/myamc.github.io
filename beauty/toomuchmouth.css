@@ -11,11 +11,18 @@ body{
 	width: 375px;
 }
 
+.logo{
+	position: absolute;
+	top: 10px;
+	left: 168px;
+	height: 55px;
+	width: 35px;
+}
+
 .pht{
 	position: absolute;
-	top: 75px;
+	top: 80px;
 	left: 0px;
-	background-color:#dbf1f7;
 	height: 300px;
 	width: 375px;
 }
@@ -137,7 +144,6 @@ body{
 	position: absolute;
 	top: 2235px;
 	left: 195px;
-	background-color:#dbf1f7;
 	height: 347px;
 	width: 180px;
 }
@@ -193,7 +199,6 @@ body{
  	position: absolute;
 	top: 2825px;
 	left: 10px;
-	background-color:#dbf1f7;
 	height: 200px;
 	width: 355px;
  }
@@ -224,7 +229,6 @@ body{
  	position: absolute;
 	top: 3340px;
 	left: 10px;
-	background-color:#dbf1f7;
 	height: 200px;
 	width: 355px;
  }
@@ -271,7 +275,6 @@ body{
 	position: absolute;
 	top: 4045px;
 	left: 0px;
-	background-color:#dbf1f7;
 	height: 445px;
 	width: 180px;
 }
@@ -354,7 +357,6 @@ body{
  	position: absolute;
 	top: 5385px;
 	left: 10px;
-	background-color:#dbf1f7;
 	height: 200px;
 	width: 355px;
  }
@@ -427,12 +429,35 @@ body{
 
 }
 
-.img1{
+.intro{
 	position: absolute;
 	top: 6600px;
-	left: 0;
-	background-color: white;
-	height: 300px;
-	width: 375px;
+	left: -46px;
+	height: 215px;
+	width: 170px;
 
+}
+
+.jackie{
+	position: absolute;
+	top: 6600px;
+	left: 96px;
+	height: 109px;
+	width: 90px;
+}
+
+.nyma{
+	position: absolute;
+	top: 6602px;
+	left: 175px;
+	height: 110px;
+	width: 105px;
+}
+
+.ellarie{
+	position: absolute;
+	top: 6575px;
+	right: 5px;
+	height: 125px;
+	width: 110px;
 }

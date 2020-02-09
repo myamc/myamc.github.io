@@ -14,13 +14,19 @@ body{
 
 .pht{
 	position: absolute;
-	top: 75px;
+	top: 57px;
 	left: 0px;
-	background-color:#dbf1f7;
-	height: 300px;
+	height: 330px;
 	width: 375px;
 }
 
+.logo{
+	position: absolute;
+	top: 10px;
+	left: 168px;
+	height: 55px;
+	width: 35px;
+}
 .head{
 	position: absolute;
 	top: 370px;
@@ -252,10 +258,10 @@ body{
 .pic3{
 	position: absolute;
 	top: 5025px;
-	left: 0px;
-	background-color:#dbf1f7;
+	left: -54px;
+	background-color:#B08566;
 	height: 360px;
-	width: 180px;
+	width: 230px;
 }
 .p20{
 	position: absolute;
@@ -293,13 +299,37 @@ body{
 
 }
 
-.img4{
+.intro{
 	position: absolute;
-	top: 5830px;
-	left: 0;
-	background-color: white;
-	height: 300px;
-	width: 375px;
+	top: 5777px;
+	left: -46px;
+	height: 215px;
+	width: 170px;
 
 }
+
+.nyma{
+	position: absolute;
+	top: 5780px;
+	left: 75px;
+	height: 109px;
+	width: 109px;
+}
+
+.toomuchmouth{
+	position: absolute;
+	top: 5780px;
+	left: 179px;
+	height: 99px;
+	width: 96px;
+}
+
+.ellarie{
+	position: absolute;
+	top: 5755px;
+	right: 5px;
+	height: 125px;
+	width: 110px;
+}
+
  

@@ -11,9 +11,17 @@ body{
 	width: 375px;
 }
 
+.logo{
+	position: absolute;
+	top: 10px;
+	left: 168px;
+	height: 55px;
+	width: 35px;
+}
+
 .pht{
 	position: absolute;
-	top: 75px;
+	top: 80px;
 	left: 0px;
 	height: 300px;
 	width: 375px;
@@ -80,7 +88,6 @@ body{
 	position: absolute;
 	top: 1505px;
 	left: 10px;
-	background-color:#dbf1f7;
 	height: 200px;
 	width: 355px;
 }
@@ -127,7 +134,6 @@ body{
 	position: absolute;
 	top: 2305px;
 	left: 195px;
-	background-color:#dbf1f7;
 	height: 415px;
 	width: 180px;
 }
@@ -159,12 +165,36 @@ body{
 
 }
 
-.img1{
-	position: absolute;
-	top: 3100px;
-	left: 0;
-	background-color: white;
-	height: 300px;
-	width: 375px;
 
+.intro{
+	position: absolute;
+	top: 2950px;
+	left: -46px;
+	height: 215px;
+	width: 170px;
+
+}
+
+.jackie{
+	position: absolute;
+	top: 2950px;
+	left: 96px;
+	height: 109px;
+	width: 90px;
+}
+
+.nyma{
+	position: absolute;
+	top: 2952px;
+	left: 175px;
+	height: 110px;
+	width: 105px;
+}
+
+.toomuchmouth{
+	position: absolute;
+	top: 2950px;
+	right: 5px;
+	height: 105px;
+	width: 90px;
 }

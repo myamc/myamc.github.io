@@ -11,11 +11,17 @@ body{
 	width: 375px;
 }
 
+.logo{
+	position: absolute;
+	top: 10px;
+	left: 168px;
+	height: 55px;
+	width: 35px;
+}
 .pht{
 	position: absolute;
 	top: 75px;
 	left: 0px;
-	background-color:#dbf1f7;
 	height: 300px;
 	width: 375px;
 }
@@ -151,13 +157,36 @@ body{
 
 }
 
-.img4{
+.intro{
 	position: absolute;
 	top: 3300px;
-	left: 0;
-	background-color: white;
-	height: 300px;
-	width: 375px;
+	left: -46px;
+	height: 215px;
+	width: 170px;
 
+}
+
+.jackie{
+	position: absolute;
+	top: 3300px;
+	left: 90px;
+	height: 109px;
+	width: 90px;
+}
+
+.toomuchmouth{
+	position: absolute;
+	top: 3300px;
+	left: 179px;
+	height: 99px;
+	width: 96px;
+}
+
+.ellarie{
+	position: absolute;
+	top: 3275px;
+	right: 5px;
+	height: 125px;
+	width: 110px;
 }
  
