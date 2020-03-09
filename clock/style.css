@@ -26,13 +26,13 @@ body {
 
 .warhol2{
   position: absolute;
-  top:1450px;
-  left: 148px;
+  top:-144px;
+  left: -5000px;
    height: 1200px;
   width: 1600px;
 }
 .warhol2.alarm{
-  top:-144px;
+  left: 148px;
   z-index: 10;
 }
 
@@ -61,14 +61,15 @@ body {
 
 .rset{
   position: absolute;
-  top: 1000px;
-  left: 821px;
+  top: 149px;
+  left: -5000px;
   width: 1050px;
-  height: 900px
+  height: 900px;
+
 }
 
 .rset.alarm{
-  top: 149px;
+  left: 821px;
   z-index: 10;
 }
 
@@ -112,14 +113,14 @@ body {
 
 .seconds1{
   position: absolute;
-  top: 2010px;
-  left: 655px;
+  top: 211px;
+  left: -5000px;
   width: 1050px;
   height: 900px;
 }
 
 .seconds1.alarm{
-  top: 211px;
+  left: 655px
   z-index: 10;
 }
 
