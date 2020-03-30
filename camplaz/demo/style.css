@@ -125,8 +125,11 @@ body {
 }
 
 .npc.was-interacted {
+  background-image: url("./img/npc-down.png");
+  animation-timing-function: steps(3);
+  animation-duration: 400ms;
   opacity: 0;
-  transition: opacity 400ms linear;
+  transition: opacity 425ms;
 }
 
 .preload-image {
