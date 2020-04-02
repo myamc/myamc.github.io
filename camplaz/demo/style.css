@@ -47,7 +47,7 @@ body {
   height: 40px;
   line-height: 40px;
   border-radius: 50%;
-  background-color: rgb(243, 128, 25);
+  background-color: rgb(188, 188, 188);
   color: white;
   font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
@@ -126,10 +126,11 @@ body {
 
 .npc.was-interacted {
   background-image: url("./img/npc-down.png");
+  animation-name: spriteSheet; 
   animation-timing-function: steps(3);
-  animation-duration: 400ms;
-  opacity: 0;
-  transition: opacity 425ms;
+  animation-iteration-count: 1;
+  bottom: 100px;
+  transition: bottom 300ms linear;
 }
 
 .preload-image {
